@@ -1,0 +1,6 @@
+[submodule "FE-PyCam2-Server"]
+	path = FE-PyCam2-Server
+	url = https://github.com/Dephrilibrium/FE-PyCam2-Server
+[submodule "FE-PyCam2-Postprocessing"]
+	path = FE-PyCam2-Postprocessing
+	url = https://github.com/Dephrilibrium/FE-PyCam2-Postprocessing
